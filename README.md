@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzat-engida&label=Profile%20views&color=0e75b6&style=flat" alt="izzat-engida" /> </p>
 
-- 🔭 I’m currently working on a **Weather app in Java**
-- 🌱 I’m currently learning **Web development and Data Structures & Algorithms**
+- 🔭 I’m currently working on a ** **
+- 🌱 I’m currently learning ** **
 - 📫 How to reach me: **izzatengida7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
