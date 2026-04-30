@@ -68,5 +68,5 @@
 
 
 <p align="center">
-  <b>⚡ "There’s no limit to how strong I can become." ⚡</b>
+  <b>⚡ "There’s no limits." ⚡</b>
 </p>
