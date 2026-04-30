@@ -1,5 +1,5 @@
 <h1 align="center">
-  <div class="tenor-gif-embed" data-postid="8985546130546357006" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/kid-gohan-shenlong-dragon-ball-z-chala-head-chala-dragonball-gif-8985546130546357006">Kid Gohan Shenlong GIF</a>from <a href="https://tenor.com/search/kid+gohan-gifs">Kid Gohan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+   <img src="https://media1.tenor.com/m/fLMSmSgZ8w4AAAAd/kid-gohan-shenlong.gif" width="280" />
 </h1>
 
 <h1 align="center">
