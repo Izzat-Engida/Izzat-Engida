@@ -1,5 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=IT'S+OVER+9000!;I'm+Izzat+Engida;Software+Engineer+from+Ethiopia" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/izzat-engida/izzat-engida/main/assets/shenron-banner.png" alt="Shenron Banner" width="100%" />
+</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=IT'S+OVER+9000!;I'm+Izzat+Engida;Software+Engineer+from+Ethiopia;Always+Leveling+Up+⚡" />
 </h1>
 
 <p align="center">
@@ -7,19 +11,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=izzat-engida&label=POWER+LEVEL&color=ff9900&style=for-the-badge" alt="Power Level" />
+  <img src="https://komarev.com/ghpvc/?username=izzat-engida&label=POWER+LEVEL&color=ff9900&style=for-the-badge" />
 </p>
 
 ---
 
 ### 🐉 The Legend of Izzat
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueXF6Nmt4ZzR6bm96amZqZzR6bm96amZqZzR6bm96amZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/125am70f23q79m/giphy.gif" width="150" />
+<img align="right" src="https://media.giphy.com/media/125am70f23q79m/giphy.gif" width="150" />
 
-- 🔭 **Current Quest:** Forging a legendary **Hahu lalije**.
-- 🌱 **Training Room:** Pushing my limits with new tech 
-- 💡 **Philosophy:** Clean code is the ultimate *Ultra Instinct*.
-- 📫 **Summon Me:** [izzatengida7@gmail.com](mailto:izzatengida7@gmail.com)
+- 🔭 **Current Quest:** Forging a legendary **Hahu lalije**
+- 🌱 **Training Room:** Constantly learning & improving
+- 💡 **Philosophy:** Clean code = Ultra Instinct
+- 📫 **Summon Me:** izzatengida7@gmail.com
 
 ---
 
@@ -34,12 +38,12 @@
 ### 📊 Scouter Readings (GitHub Stats)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Izzat's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzat-engida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzat-engida&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -47,17 +51,26 @@
 ### 🌐 Let's Spar (Socials)
 
 <p align="center">
-  <a href="https://instagram.com/izzatengida" target="_blank">
+  <a href="https://instagram.com/izzatengida">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/izzat_izorium" target="_blank">
+  <a href="https://www.leetcode.com/izzat_izorium">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
 
+---
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=60&section=footer" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZiaWZ6Nmt4ZzR6bm96amZqZzR6bm96amZqZzR6bm96amZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8uR04id80o3qX1W0D/giphy.gif" width="300" />
-  <br>
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=90&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="280" />
+</p>
+
+<p align="center">
+  <b>⚡ "There’s no limit to how strong I can become." ⚡</b>
 </p>
