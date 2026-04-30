@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/izzat-engida/izzat-engida/main/assets/shenron-banner.png" alt="Shenron Banner" width="100%" />
+  <img src="https://tenor.com/kRV3KIScPb8.gif" alt="Shenron Banner" width="100%" />
 </h1>
 
 <h1 align="center">
