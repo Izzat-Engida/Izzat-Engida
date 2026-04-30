@@ -66,10 +66,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=90&section=footer"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="280" />
-</p>
 
 <p align="center">
   <b>⚡ "There’s no limit to how strong I can become." ⚡</b>
