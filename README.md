@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJreXF6Nmt4ZzR6bm96amZqZzR6bm96amZqZzR6bm96amZqZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/ul1omBL2StW8/giphy.gif" width="600" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJreXF6Nmt4ZzR6bm96amZqZzR6bm96amZqZzR6bm96amZqZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/ul1omBL2StW8/giphy.gif" width="600" alt="Goku Power Up" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### 🐉 The Legend of Izzat
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAxbXN3bmxyeXJ6bm96amZqZzR6bm96amZqZzR6bm96amZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/125am70f23q79m/giphy.gif" width="150" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueXF6Nmt4ZzR6bm96amZqZzR6bm96amZqZzR6bm96amZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/125am70f23q79m/giphy.gif" width="150" />
 
-- 🔭 **Current Quest:** Forging a legendary **Hahu lalije**.
+- 🔭 **Current Quest:** Forging a legendary **Student Application & Management System**.
 - 🌱 **Training Room:** Pushing my limits with new tech and gravity-defying code.
 - 💡 **Philosophy:** Clean code is the ultimate *Ultra Instinct*.
 - 📫 **Summon Me:** [izzatengida7@gmail.com](mailto:izzatengida7@gmail.com)
@@ -56,5 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=100&section=footer" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" />
+  <br>
+  <i>"I am the hope of the universe. I am the answer to all living things that cry out for peace."</i>
 </p>
