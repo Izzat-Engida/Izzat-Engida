@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile%20App%20Developer-Flutter%20%7C%20React%20Native-61dafb?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Developer" />
+
   <img src="https://komarev.com/ghpvc/?username=izzat-engida&label=Profile%20Views&color=ff79c6&style=for-the-badge&labelColor=1e1e2e" alt="Profile Views" />
 </p>
 
