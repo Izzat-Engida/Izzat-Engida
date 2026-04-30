@@ -16,7 +16,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueXF6Nmt4ZzR6bm96amZqZzR6bm96amZqZzR6bm96amZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/125am70f23q79m/giphy.gif" width="150" />
 
-- 🔭 **Current Quest:** Forging a legendary **Student Application & Management System**.
+- 🔭 **Current Quest:** Forging a legendary **Hahu lalije**.
 - 🌱 **Training Room:** Pushing my limits with new tech and gravity-defying code.
 - 💡 **Philosophy:** Clean code is the ultimate *Ultra Instinct*.
 - 📫 **Summon Me:** [izzatengida7@gmail.com](mailto:izzatengida7@gmail.com)
@@ -59,5 +59,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=60&section=footer" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZiaWZ6Nmt4ZzR6bm96amZqZzR6bm96amZqZzR6bm96amZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8uR04id80o3qX1W0D/giphy.gif" width="300" />
   <br>
-  <i>"I am the hope of the universe. I am the answer to all living things that cry out for peace."</i>
+ 
 </p>
