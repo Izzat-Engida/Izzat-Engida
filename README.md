@@ -17,7 +17,7 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueXF6Nmt4ZzR6bm96amZqZzR6bm96amZqZzR6bm96amZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/125am70f23q79m/giphy.gif" width="150" />
 
 - 🔭 **Current Quest:** Forging a legendary **Hahu lalije**.
-- 🌱 **Training Room:** Pushing my limits with new tech and gravity-defying code.
+- 🌱 **Training Room:** Pushing my limits with new tech 
 - 💡 **Philosophy:** Clean code is the ultimate *Ultra Instinct*.
 - 📫 **Summon Me:** [izzatengida7@gmail.com](mailto:izzatengida7@gmail.com)
 
