@@ -18,7 +18,7 @@
 
 ### 🐉 The Legend of Izzat
 
-<img align="right" src="https://media1.tenor.com/m/Qo-YO8aYpRIAAAAd/piccolo-aura-piccolo.gif" width="150" />
+<img align="right" src="https://media1.tenor.com/m/Qo-YO8aYpRIAAAAd/piccolo-aura-piccolo.gif" width="150" height="150" />
 
 - 🔭 **Current Quest:** Forging a legendary **Hahu lalije**
 - 🌱 **Training Room:** Constantly learning & improving
