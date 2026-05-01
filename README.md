@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/MaySidi/MaySidi/master/goku.gif" width="400" alt="Goku Power Up" />
+  <img src="https://media1.tenor.com/m/zvi6xyutRwgAAAAd/goku-dance.gif" width="400" alt="Goku Power Up" />
 
 </p>
 
