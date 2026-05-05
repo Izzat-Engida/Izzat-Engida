@@ -52,15 +52,18 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/>
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" height="180"/>
 
 </p>
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzat-engida&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://streak-stats.demolab.com/?user=izzat-engida&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </p>
 
