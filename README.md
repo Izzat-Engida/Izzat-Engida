@@ -28,7 +28,7 @@
 
 <img align="right" src="https://media1.tenor.com/m/Qo-YO8aYpRIAAAAd/piccolo-aura-piccolo.gif" width="150" height="120" />
 
-- 🔭 **Current Quest:** Forging a legendary **Hahu lalije**
+- 🔭 **Current Quest:** Forging a legendary **Nutrilens Ai**
 
 - 🌱 **Training Room:** Constantly learning & improving
 
