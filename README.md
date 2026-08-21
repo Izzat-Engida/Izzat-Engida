@@ -58,10 +58,7 @@
 ### 🌌 Contribution Ki Blast 
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izzat-engida/izzat-engida/output/dist/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/izzat-engida/izzat-engida/output/dist/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Izzat-Engida/Izzat-Engida/output/dist/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
