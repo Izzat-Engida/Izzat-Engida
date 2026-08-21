@@ -41,8 +41,8 @@
 ### 📊 Scouter Readings (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izzat-engida&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" height="180"/>
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌌 Contribution Ki Blast
+### 🌌 Contribution Ki Blast 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Izzat-Engida/Izzat-Engida/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
