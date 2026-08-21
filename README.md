@@ -58,10 +58,11 @@
 ### 🌌 Contribution Ki Blast (Snake Animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/izzat-engida/izzat-engida/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izzat-engida/izzat-engida/output/dist/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/izzat-engida/izzat-engida/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-> 💡 To activate this: add a GitHub Actions workflow (`platane/snk`) to your repo — it turns your contribution graph into an animated snake that "eats" your commits. I can generate that workflow file for you if you want it wired up.
 
 ---
 
