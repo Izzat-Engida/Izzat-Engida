@@ -22,9 +22,9 @@
 
 <img align="right" src="https://media1.tenor.com/m/Qo-YO8aYpRIAAAAd/piccolo-aura-piccolo.gif" width="150" height="120" />
 
-- 🔭 **Current Quest:** Forging a legendary app — **NutriLens AI**
+- 🔭 **Current Quest:** Forging a legendary app **NutriLens AI**
 - ⚔️ **Side Quests:** Juggling multiple mobile builds like a true multitasking Saiyan
-- 🌱 **Training Room:** Constantly learning & improving — Ultra Instinct is a *practice*, not a state
+- 🌱 **Training Room:** Constantly learning & improving 
 - 💡 **Philosophy:** Clean code = Ultra Instinct
 - 📫 **Summon Me:** izzatengida7@gmail.com
 
@@ -55,10 +55,10 @@
 
 ---
 
-### 🌌 Contribution Ki Blast 
+### 🌌 Contribution Ki Blast
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Izzat-Engida/Izzat-Engida/output/dist/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Izzat-Engida/Izzat-Engida/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
