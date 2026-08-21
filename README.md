@@ -55,7 +55,7 @@
 
 ---
 
-### 🌌 Contribution Ki Blast (Snake Animation)
+### 🌌 Contribution Ki Blast 
 
 <p align="center">
   <picture>
