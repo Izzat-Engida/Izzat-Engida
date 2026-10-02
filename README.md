@@ -39,12 +39,13 @@
 ---
 
 ### 📊 Scouter Readings
-<p align="center">
-   
-![](https://github-readme-stats.shion.dev/api?username=Izzat-Engida&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Izzat-Engida&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Izzat-Engida&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Izzat-Engida&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Izzat-Engida&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Izzat-Engida&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 ---
 
@@ -76,6 +77,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=90&section=footer"/>
 </p>
 
+### ⚡ Daily Saiyan Wisdom
+
 <p align="center">
-  ⚡ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)  ⚡
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </p>
