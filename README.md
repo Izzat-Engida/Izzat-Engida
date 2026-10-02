@@ -77,5 +77,5 @@
 </p>
 
 <p align="center">
-  <b>⚡ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)  ⚡</b>
+  ⚡ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)  ⚡
 </p>
