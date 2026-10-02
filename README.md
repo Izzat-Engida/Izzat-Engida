@@ -73,9 +73,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=90&section=footer"/>
-</p>
+
 
 ### ⚡ Daily Wisdom
 
