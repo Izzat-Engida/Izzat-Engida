@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ My Arsenal (Tech Stack)
+### 🛠️ My Arsenal 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,bootstrap,c,cpp,css,dart,figma,firebase,flutter,git,html,java,js,mongodb,mysql,nextjs,nodejs,php,python,pytorch,react,reactnative,redux,tailwind,ts&theme=dark" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Scouter Readings (GitHub Stats)
+### 📊 Scouter Readings
 
 <p align="center">
   <img src="./profile/stats.svg" height="180"/>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌌 Contribution Ki Blast 
+### 🌌 Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Izzat-Engida/Izzat-Engida/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
@@ -63,7 +63,7 @@
 
 ---
 
-### 🌐 Let's Spar (Socials)
+### 🌐 Let's Spar
 
 <p align="center">
   <a href="https://instagram.com/izzatengida">
