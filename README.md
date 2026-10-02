@@ -39,19 +39,9 @@
 ---
 
 ### 📊 Scouter Readings
-
-<p align="center">
-  <img src="./profile/stats.svg" height="180"/>
-  <img src="./profile/top-langs.svg" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=izzat-engida&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=izzat-engida&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Izzat-Engida&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Izzat-Engida&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Izzat-Engida&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
