@@ -80,5 +80,5 @@
 ### ⚡ Daily Wisdom
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=FF9900&center=true&vCenter=true&width=700&height=100&lines=It's+over+9000!;I+am+going+to+be+King+of+the+Pirates!;Believe+it!;Whatever+happens%2C+happens.;A+lesson+without+pain+is+meaningless." alt="Anime Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </p>
